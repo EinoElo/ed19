@@ -1,0 +1,7 @@
+Election data is from Tilastotieteen laitos:
+http://pxnet2.stat.fi/PXWeb/pxweb/fi/StatFin/StatFin__vaa__evaa__evaa_2019/130_evaa_2019_tau_103.px/
+license: https://creativecommons.org/licenses/by/4.0/legalcode.fi
+
+Map data is from Maanmittauslaitos:
+https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta
+license: https://creativecommons.org/licenses/by/4.0/legalcode.fi
